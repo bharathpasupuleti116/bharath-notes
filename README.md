@@ -4,15 +4,23 @@ A modern, AI-powered note-taking application built with **Next.js**, **Supabase*
 
 ## 📸 Screenshots
 
-| AI-Enhanced Dashboard                     | Login                                      |
-| ----------------------------------------- | ------------------------------------------ |
-| ![Dashboard](./screenshots/Dashboard.png) | ![Login](./screenshots/Login.png) |
+| AI-Enhanced Dashboard                     |
+| ----------------------------------------- |
+| ![Dashboard](./screenshots/Dashboard.png) |
 
-| SignUp                             | Notes                                    |
-| ---------------------------------- | ---------------------------------------- |
-| ![SignUp](./screenshots/SignUp.png)|  ![Notes](./screenshots/Notes.png)       |
+| Login                              |
+| ---------------------------------- |
+| ![Login](./screenshots/Login.png)  |
 
-| AsKAI                               |
+| SignUp                             |
+| ---------------------------------- |
+| ![SignUp](./screenshots/SignUp.png)|
+
+| Notes                              |
+| ---------------------------------- | 
+| ![Notes](./screenshots/Notes.png)  |
+
+| AskAI                               |
 | ----------------------------------- |
 | ![AskAI](./screenshots/AskAI.png)   |
 
