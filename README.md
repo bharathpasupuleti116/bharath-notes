@@ -75,7 +75,7 @@ Other root-level files:
 
 ## 🌐 Live Demo
 
-👉 [**Live Site**](https://your-deployed-app-url.com)
+👉 [**View Deployed App →**](https://your-deployment-url.com)
 
 ---
 
