@@ -65,7 +65,7 @@ Other root-level files:
 
 | Layer    | Tech                                        |
 | -------- | ------------------------------------------- |
-| Frontend | Next.js 13+ (App Router), React, TypeScript |
+| Frontend | Next.js 15+ (App Router), React, TypeScript |
 | Styling  | Tailwind CSS, shadcn/ui                     |
 | Backend  | Supabase (PostgreSQL + Auth)                |
 | AI       | Google Gemini API                           |
