@@ -84,7 +84,7 @@ export const askAIAboutNotesAction = async (
       .join("\n");
 
     // Creating a conversation history for context
-    let chatHistory = [];
+    const chatHistory = [];
 
     // Add system prompt
     const systemPrompt = `
