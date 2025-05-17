@@ -74,12 +74,12 @@ export const askAIAboutNotesAction = async (
     }
 
     const formattedNotes = notes
-      .map((note: { text: string; createdAt: Date; updatedAt: Date }) =>
+      .map((note) =>
         `
-    Text: ${note.text}
-    Created at: ${note.createdAt}
-    Last updated: ${note.updatedAt}
-    `.trim(),
+      Text: ${note.text}
+      Created at: ${note.createdAt}
+      Last updated: ${note.updatedAt}
+      `.trim(),
       )
       .join("\n");
 
