@@ -75,7 +75,7 @@ Other root-level files:
 
 ## 🌐 Live Demo
 
-👉 [**View Deployed App →**](https://your-deployment-url.com)
+👉 [**View Deployed App →**](bharath-notes.vercel.app)
 
 ---
 
